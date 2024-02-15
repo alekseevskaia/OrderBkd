@@ -16,8 +16,6 @@ Existing attacks involve poisoning the data samples such as insertion of tokens 
 python3 attack_orderbkd.py --dataset sst-2 --model bert
 ```
 
-![### Examples](/experimens/examples.png)
-
 
 ### Citation
 If the code or method help you in the research, please cite the following paper:
