@@ -20,10 +20,12 @@ python3 attack_orderbkd.py --dataset sst-2 --model bert
 ### Citation
 If the code or method help you in the research, please cite the following paper:
 ```
-@inproceedings{orderbkd2024,
+@article{Alekseevskaia2024OrderBkdTB,
   title={OrderBkd: Textual backdoor attack through repositioning},
-  author={Alekseevskaia Irina, Arkhipenko Konstantin},
-  booktitle={IEEE},
-  year={2024}
+  author={Irina Alekseevskaia and Konstantin Arkhipenko},
+  journal={ArXiv},
+  year={2024},
+  volume={abs/2402.07689},
+  url={https://api.semanticscholar.org/CorpusID:267627289}
 }
 ```
